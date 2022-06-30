@@ -1,13 +1,12 @@
 # UdemyCopy
 setup for Node 14.* and win 32 might not work for some computers !
 
-Aplikacja jest prostą kopią udemy, posiada logowanie, możliwość edycji postów, dodawania postów oraz backend, dzięki któremu dane będą pobierane na bierząco z bazy danych.
+Application used for learning purposes only, created with react and backend written entirely in node.js express framework, it was created with an intent to learn more about MERN stack and how it works 
 
-Technologie użyte:                                                                                                                                                       
+Technologies:                                                                                                                                                       
 -react.js                                                                                                                                                                 
 -sass                                                                                                                                                                     
--mongodb                                                                                                                                                                 
--node.js                                                                                                                                                                 
--express.js                                                                                                                                                               
--cors                                                                                                                                                                     
+-mongodb as database                                                                                                                                                      -node.js                                                                                                                                                                 
+-express.js
+in short MERN stack
 
