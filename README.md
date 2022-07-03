@@ -7,6 +7,6 @@ Technologies:
 * react.js                                                                                                                                                               
 * sass                                                                                                                                                                   
 * mongodb as database                                                                                                                                                      * node.js                                                                                                                                                                 
-* express.js
+* express.js \ 
 in short MERN stack
 
